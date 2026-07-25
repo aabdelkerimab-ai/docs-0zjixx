@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-w360ez.kujang138bos.online/sitemap.xml
